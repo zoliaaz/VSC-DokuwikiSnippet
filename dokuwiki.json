@@ -1,0 +1,48 @@
+"Link": {
+		"prefix": "link",
+		"body": [
+			"[[${1:Lien}|${2:NomLien}]]",
+	
+		],
+		"description": "Insert a link syntax"
+	},
+
+	"Title 1": {
+		"prefix": "Title",
+		"body":[ "====== $1 ======",
+		],
+		"description": "Title 1"
+	},
+
+	"Title 2": {
+		"prefix": "Title",
+		"body":[ "===== $1 =====",
+		],
+		"description": "Title 2"
+	},
+	"Title 3": {
+		"prefix": "Title",
+		"body":[ "==== $1 ====",
+		],
+		"description": "Title 3"
+	},
+	"Title 4": {
+		"prefix": "Title",
+		"body":[ "=== $1 ===",
+		],
+		"description": "Title 4"
+	},
+	"Title 5": {
+		"prefix": "Title",
+		"body":[ "== $1 ==",
+		],
+		"description": "Title 5"
+	},
+	"Title 6": {
+		"prefix": "Title",
+		"body":[ "= $1 =",
+		],
+		"description": "Title 6"
+	},
+
+}
